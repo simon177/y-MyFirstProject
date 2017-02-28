@@ -1,0 +1,55 @@
+1  git init
+    2  git remote add origin https://github.com/simon177/y-MyFirstProject.git
+    3  git push -u origin master
+    4  git add README.md
+    5  git add .
+    6  git status
+    7  git commit -m "first commit"
+    8  git remote add origin https://github.com/simon177/y-MyFirstProject.git
+    9  git remote rm origin
+   10  git remote add origin https://github.com/simon177/y-MyFirstProject.git
+   11  gitlog
+   12  git log
+   13  git push -u origin master
+   14  git add .
+   15  git commit -m "nowy plik"
+   16  git push
+   17  git commit -m"imie"
+   18  git add .
+   19  git push
+   20  git status
+   21  git commit -m "nowy plik"
+   22  git push
+   23  git clone https://github.com/simon177/y-MyFirstProject
+   24  cd ..
+   25  git clone https://github.com/simon177/y-MyFirstProject
+   26  ls
+   27  cd y-MyFirstProject/
+   28  ls
+   29  git commit -m "Added email address"
+   30  git add
+   31  git add .
+   32  git commit -m "Added email address"
+   33  git push
+   34  git clone https://github.com/simon177/y-MyFirstProject
+   35  cd ..
+   36  git clone https://github.com/simon177/y-MyFirstProject
+   37  git branch
+   38  cd y-MyFirstProject/
+   39  git branch
+   40  $ git checkout -b interests
+   41  $ git checkout -b interests"
+   42  $ git checkout -b "interests"
+   43  $ git checkout -b "interests"
+   44  git checkout -b "interests"
+   45  git branch
+   46  git add .
+   47  git commit -m "new interest"
+   48  git branch
+   49  git log
+   50  git checkout master
+   51  git merge interests
+   52  git checkout -d interests
+   53  git branch -d interests
+   54  history
+
